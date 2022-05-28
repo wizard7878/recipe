@@ -6,8 +6,6 @@ from django.contrib.auth.models import (
     BaseUserManager,
     PermissionsMixin
 )
-from django.contrib.auth.hashers import make_password
-
 
 def recipe_image_file_path(instance, filename):
     ext = filename.split('.')[-1]
