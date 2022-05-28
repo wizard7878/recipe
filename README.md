@@ -1,7 +1,7 @@
-##########
-django Recipe App
-##########
-django REST API recipe app
+
+## Django Recipe App
+
+Django REST API recipe app
 
 
 
